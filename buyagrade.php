@@ -18,17 +18,17 @@
 		<dl>
 			<dt>Name</dt>
 			<dd>
-				???
+				<input type="name" />
 			</dd>
 			
 			<dt>Section</dt>
 			<dd>
-				???
+				<input type="section" />
 			</dd>
 			
 			<dt>Credit Card</dt>
 			<dd>
-				???
+				<input type="credit_card" />
 			</dd>
 		</dl>
 		
